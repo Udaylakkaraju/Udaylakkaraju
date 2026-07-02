@@ -1,10 +1,24 @@
-### Hi, I'm Uday 👋
+<div align="center">
 
-MS Information Systems @ Stevens Institute of Technology · Data & BI Analytics
+# Hi, I'm Uday 👋
 
-Four end-to-end analytics projects, four different domains, one habit: every number ships traceable back to a query, and every claim gets a limitations section. Open to Data Analyst / Business Intelligence roles.
+**MS Information Systems @ Stevens Institute of Technology · Data & BI Analytics**
 
-`SQL` · `Python` · `Power BI` · `Excel` · `Snowflake` · `dbt` · `BigQuery`
+Four end-to-end analytics projects, four different domains, one habit: every number ships traceable back to a query, and every claim gets a limitations section.
+Open to Data Analyst / Business Intelligence roles.
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+
+[![Website](https://img.shields.io/badge/Website-udaylakkaraju.me-2C3E50?style=flat&logo=googlechrome&logoColor=white)](https://www.udaylakkaraju.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-uday452-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/uday452)
+
+</div>
 
 ---
 
@@ -21,7 +35,3 @@ Modeled a 15,000-patient diagnostic pathway across five care stages on a 100K-pa
 
 **[Payment Failure & Fraud Review Analytics](https://github.com/Udaylakkaraju/Payment-Fraud-Detection)**
 51,237 synthetic transactions, 12.92% failure rate. Two decline reasons account for 85% of $500K in failed value, and a capacity-limited fraud review queue reaches 9.5% precision vs. a 5.5% random baseline.
-
----
-
-🌐 [udaylakkaraju.me](https://www.udaylakkaraju.me) · 📫 [LinkedIn](https://linkedin.com/in/uday452)
