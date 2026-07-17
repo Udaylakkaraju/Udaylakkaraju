@@ -10,9 +10,9 @@
 
 ## About Me
 
-I’m an aspiring **Data Analyst** who turns complex business data into clear, decision-ready insights. Using **SQL, Python, Excel, Power BI, and BigQuery**, I build analyses that reveal patterns, explain performance, and support practical business decisions.
+I’m **Uday**, an aspiring Data Analyst who is most interested in the decision behind the dashboard. I like taking a business problem that feels broad—lost payments, late deliveries, uncertain content investments, changing product prices—and narrowing it into the few signals a team can actually act on.
 
-My work sits at the intersection of analytics and operations—from payment recovery and supply-chain risk to film investment ROI and product pricing trends.
+In my **Payments Optimization** project, I examine decline patterns, retry opportunities, and fraud-review prioritization. In **Supply Chain Analytics**, I focus on delivery performance and operational risk. My **Cine ROI** and **Price Trend Analysis** projects extend that same approach to investment decisions and product pricing. I use **SQL, Python, Excel, Power BI, and BigQuery** to move from raw data to a clear business story—not just a chart.
 
 <div align="center">
 
